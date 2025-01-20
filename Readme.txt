@@ -2,7 +2,6 @@ Nama Aplikasi:
   Aplikasi Segala Ada
 Dibuat Oleh:
   Rafli Aditya
-  Refaldy Febriansyah
 Dibuat Menggunakan:
   Borland C++ v5.02
 Deskripsi Aplikasi:
